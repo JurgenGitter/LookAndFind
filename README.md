@@ -11,7 +11,7 @@ Step one:
 Step two:
   Run the code.
 Step three:
-  Enter your arguements. 
+    Enter your arguements. 
     The first one is the tags. 
     The second argument is the url.
     The third is the name of the file to be created for result storage.
